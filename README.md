@@ -9,6 +9,6 @@ This repository is a practical example of QA activities related to Test Planning
 
 This test is carried out for websites https://www.udemy.com on the website platform using Microsoft Excel tools
 ## Author
-Dian Lesmana
+Dian Lesmana  
 Email dianlsm784@gmail.com  
 Linkedin https://www.linkedin.com/in/dianlesmana/
