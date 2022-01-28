@@ -1,3 +1,3 @@
-# Manual Testing Project
-Project pengujian manual pertama yang saya bangun, pengujian yang dilakukan pada aplikasi berbasis website 
--  Udemy https://www.udemy.com/
+# QA-Manual Testing
+Simple practical example of QA activity related to website application
+* balbal
