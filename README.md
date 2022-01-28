@@ -7,11 +7,11 @@ This repository is a practical example of QA activities related to Test Planning
 - Test Case
 - Test Bug report
 
-Test Scenario that I made :
-- Test Registered
-- Test Login
-- Test Logout
-- Test Forgot Password
+## Test Scenario 
+- TS001-Test Registered
+- TS002-Test Login
+- TS003-Logout
+- TS001-Test Forgot Password
 
 ## Author
 Dian Lesmana  
