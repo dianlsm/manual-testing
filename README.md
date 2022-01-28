@@ -1,3 +1,8 @@
 # QA-Manual Testing
 Simple practical example of QA activity related to website application
-## balbal
+## Introduction
+This repository is a practical example of QA activities related to Test Planning and execution, There are several test documentation including
+- Test Plan
+- Test Scenario
+- Test Case
+- Test Bug report
