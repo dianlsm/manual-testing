@@ -1,5 +1,5 @@
 # QA-Manual Testing
-Simple practical example of QA activity related to website application
+Simple practical example of QA activity related to website application, This test is carried out for websites https://www.udemy.com on the website platform using Microsoft Excel tools
 ## Introduction
 This repository is a practical example of QA activities related to Test Planning and execution, There are several test documentation including
 - Test Plan
@@ -7,7 +7,12 @@ This repository is a practical example of QA activities related to Test Planning
 - Test Case
 - Test Bug report
 
-This test is carried out for websites https://www.udemy.com on the website platform using Microsoft Excel tools
+Test Scenario that I made :
+- Test Registered
+- Test Login
+- Test Logout
+- Test Forgot Password
+
 ## Author
 Dian Lesmana  
 Email dianlsm784@gmail.com  
